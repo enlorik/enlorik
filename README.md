@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[My timus account @enlorik](https://acm.timus.ru/author.aspx?id=301319)
 <!--
 **enlorik/enlorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
