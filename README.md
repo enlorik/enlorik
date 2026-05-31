@@ -1,7 +1,7 @@
 [My timus account @enlorik](https://acm.timus.ru/author.aspx?id=301319)
 
 About me: 
-Timus top 0.4% (658 / 169,530) · EPIC + EPAM · Java/Spring Boot · C++17/ANTLR4
+Timus top 0.4% (658 / 169,530) · EPIC + EPAM
 
 Projects:
 
