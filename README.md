@@ -1,5 +1,6 @@
 About me: 
 [Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute (backend) + EPAM DevOps
+
 Tech: Java · Spring Boot · PostgreSQL · C++17 · ANTLR4 · JavaScript · React · Vite · Express · Railway · Python 
 Projects:
 
