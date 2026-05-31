@@ -1,5 +1,5 @@
 About me: 
-[Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319)· EPIC Institute (backend) + EPAM DevOps
+[Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute (backend) + EPAM DevOps
 
 Projects:
 
