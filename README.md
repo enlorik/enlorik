@@ -1,16 +1,16 @@
-About me: 
-[Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute (backend) + EPAM DevOps
+Timus top 0.4% (658 / 169,530) · EPIC Institute (Backend) · EPAM DevOps
 
-Tech: Java · Spring Boot · PostgreSQL · C++17 · ANTLR4 · JavaScript · React · Vite · Express · Railway · Python 
+Tech: 
+Java · Spring Boot · PostgreSQL · C++17 · ANTLR4 · JavaScript · React · Vite · Express · Python · Railway · Tauri
+
 Projects:
-
-- User Management API — Spring Boot backend with proper layers (entities, repositories, services, controllers, auth). My first backend project at EPIC Institute.
-- pearl-proof — a C++17 + ANTLR4 checker that reduces both sides of an equation to canonical polynomial form and tests whether the difference is zero.
-- Bepo — a memory app (eventually a Bangboo). Stores photos + notes + GPS, embeds them with CLIP, and uses cosine similarity for natural-language search.
-- HDD — a Codeforces dashboard modeled on the HDD board from Zenless Zone Zero. Tracks contests and recommends daily problems by rating. React/Vite + Express on Railway.
-- doc-flow — a Spring Boot service for async document jobs: queued, processed, and tracked by state, isolated per project.
-- grepink — a note system that turns scattered AI answers into notes I can search, trust, and reuse.
-- Ribbon — a Tauri debugging tool that clusters related errors and points at likely root causes.
+– User Management API — Spring Boot backend with layered architecture, authentication, and role-based access control.
+– pearl-proof — C++17 + ANTLR4 checker that reduces both sides of an equation to canonical polynomial form and verifies equivalence.
+– Bepo — memory app for photos, notes, and GPS data with CLIP embeddings and natural-language search. Its design is lightly Bangboo-inspired.
+– HDD — Codeforces dashboard inspired by Zenless Zone Zero’s HDD board, with contest tracking and daily problem recommendations.
+– doc-flow — Spring Boot service for asynchronous document-processing jobs with project-level isolation and state tracking.
+– grepink — a note system for turning scattered AI answers into reusable, searchable notes.
+Ribbon — Tauri debugging tool that clusters related errors and surfaces likely root causes.
 <!--
 **enlorik/enlorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
