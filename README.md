@@ -1,16 +1,16 @@
 [Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute (Backend) · EPAM DevOps
 
-**Tech:** Java · Spring Boot · PostgreSQL · C++17 · ANTLR4 · JavaScript · React · Vite · Express · Python · Railway · Tauri
+**Tech:** Java · Spring Boot · PostgreSQL · Python · FastAPI · C++17 · ANTLR4 · JavaScript · React · Vite · Express · Railway · Node
 
 **Projects:**
 
-- **User Management API** — Spring Boot backend with layered architecture, authentication, and role-based access control.
-- **pearl-proof** — C++17 + ANTLR4 checker that reduces both sides of an equation to canonical polynomial form and verifies equivalence.
-- **Bepo** — memory app for photos, notes, and GPS data with CLIP embeddings and natural-language search. Lightly Bangboo-inspired.
-- **HDD** — Codeforces dashboard inspired by Zenless Zone Zero’s HDD board, with contest tracking and daily problem recommendations.
-- **doc-flow** — Spring Boot service for asynchronous document-processing jobs with project-level isolation and state tracking.
-- **grepink** — note system for turning scattered AI answers into reusable, searchable notes.
-- **Ribbon** — Tauri debugging tool that clusters related errors and surfaces likely root causes.
+- **User Management API** — Spring Boot backend with session auth, RBAC, email verification, password resets, and IP-based rate limiting.
+- **pearl-proof** — C++17 + ANTLR4 equation verifier that normalizes both sides into canonical polynomial form before comparison.
+- **Bepo** — FastAPI memory app for photos, notes, and GPS data, using CLIP embeddings and cosine similarity for natural-language search over SQLite.
+- **HDD** — Codeforces dashboard built with React/Vite and Express, featuring contest tracking and tag-based daily problem recommendations tailored to user rating.
+- **doc-flow** — Spring Boot 3 service for asynchronous document-processing jobs, with JWT auth, project-scoped API keys, and PostgreSQL-backed lifecycle tracking.
+- **grepink** — searchable note system for converting scattered AI outputs into reusable knowledge.
+- **Ribbon** — terminal debugging tool for TS/JS that groups noisy error output into likely root causes and prioritizes files to fix first.
 <!--
 **enlorik/enlorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
