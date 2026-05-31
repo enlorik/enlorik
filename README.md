@@ -1,4 +1,4 @@
-[Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute (Backend) · EPAM Cloud & DevOps (Beginner)
+[Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute Backend · EPAM Cloud & DevOps Beginner
 
 **Projects:**
 
