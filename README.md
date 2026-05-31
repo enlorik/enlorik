@@ -13,7 +13,7 @@ Projects:
 - grepink — a note system that turns scattered AI answers into notes I can search, trust, and reuse.
 - Ribbon — a Tauri debugging tool that clusters related errors and points at likely root causes.
 
-Tech: Java · Spring Boot · PostgreSQL · C++17 · ANTLR4 · JavaScript · React · Vite · Express · Railway
+Tech: Java · Spring Boot · PostgreSQL · C++17 · ANTLR4 · JavaScript · React · Vite · Express · Railway · Python 
 <!--
 **enlorik/enlorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
