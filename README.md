@@ -1,6 +1,6 @@
 [Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute (Backend) · EPAM DevOps
 
-**Tech:** Java · Spring Boot · PostgreSQL · Python · FastAPI · C++17 · ANTLR4 · React · Vite · Express · Node · Flutter · Railway
+**Tech:** Java · Spring Boot · PostgreSQL · Python · FastAPI · C++17 · ANTLR4 · JavaScript · React · Vite · Node · Express · Flutter · Railway
 
 **Projects:**
 
