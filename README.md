@@ -1,6 +1,6 @@
 About me: 
 [Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute (backend) + EPAM DevOps
-
+Tech: Java · Spring Boot · PostgreSQL · C++17 · ANTLR4 · JavaScript · React · Vite · Express · Railway · Python 
 Projects:
 
 - User Management API — Spring Boot backend with proper layers (entities, repositories, services, controllers, auth). My first backend project at EPIC Institute.
@@ -10,8 +10,6 @@ Projects:
 - doc-flow — a Spring Boot service for async document jobs: queued, processed, and tracked by state, isolated per project.
 - grepink — a note system that turns scattered AI answers into notes I can search, trust, and reuse.
 - Ribbon — a Tauri debugging tool that clusters related errors and points at likely root causes.
-
-Tech: Java · Spring Boot · PostgreSQL · C++17 · ANTLR4 · JavaScript · React · Vite · Express · Railway · Python 
 <!--
 **enlorik/enlorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
