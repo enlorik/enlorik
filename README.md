@@ -4,7 +4,7 @@
 
 **Projects:**
 
-- **User Management API** — Spring Boot; session auth, RBAC, email verification, password reset, IP rate limiting.
+- **User Management API** — Spring Boot; session auth, RBAC, email verification, password-reset tokens, IP rate limiting.
 - **pearl-proof** — C++17 + ANTLR4 equation verifier; canonical polynomial normalization, then compare.
 - **Bepo** — FastAPI + SQLite memory store; CLIP embeddings, cosine-similarity natural-language search.
 - **HDD** — React/Vite + Express Codeforces dashboard; contest timeline, rating-aware daily problems by tag.
