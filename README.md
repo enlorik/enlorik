@@ -1,7 +1,5 @@
 <!--[Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute Backend · EPAM Cloud & DevOps Beginner
-
 **Projects:**
-
 - **User Management API** — Spring Boot; session auth, RBAC, email verification, password-reset tokens, IP rate limiting.
 - **pearl-proof** — C++17 + ANTLR4 equation verifier; canonical polynomial normalization, then compare.
 - **Bepo** — FastAPI + SQLite memory store; CLIP embeddings, cosine-similarity natural-language search.
