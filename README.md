@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 **Contributions:**
 
 <!-- upstream-prs:start -->
-⚬ <img src="https://github.com/freeCodeCamp.png?size=40" width="20" align="top"> [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — [fix(curriculum): correct Quincy's Job Tips errors (#68912)](https://github.com/freeCodeCamp/freeCodeCamp/pull/68912) — Jul 2026
+▪ <img src="https://github.com/freeCodeCamp.png?size=40" width="20" align="top"> [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — [fix(curriculum): correct Quincy's Job Tips errors (#68912)](https://github.com/freeCodeCamp/freeCodeCamp/pull/68912) — Jul 2026
 <!-- upstream-prs:end -->

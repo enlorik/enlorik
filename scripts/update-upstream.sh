@@ -17,7 +17,7 @@ while IFS=$'\t' read -r repo number title url merged; do
   [ "$stars" -ge "$MIN_STARS" ] || continue
   owner="${repo%%/*}"
   month=$(date -u -d "$merged" '+%b %Y')
-  printf -- '⚬ <img src="https://github.com/%s.png?size=40" width="20" align="top"> [%s](https://github.com/%s) — [%s (#%s)](%s) — %s\n' \
+  printf -- '▪ <img src="https://github.com/%s.png?size=40" width="20" align="top"> [%s](https://github.com/%s) — [%s (#%s)](%s) — %s\n' \
     "$owner" "$repo" "$repo" "$title" "$number" "$url" "$month" >> "$TABLE"
   found=$((found + 1))
 done < <(gh api "search/issues?q=is%3Apr+is%3Amerged+author%3A${USER}+-user%3A${USER}&per_page=100" \
