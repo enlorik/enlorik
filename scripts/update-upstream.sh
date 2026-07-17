@@ -9,10 +9,7 @@ README="README.md"
 TABLE="$(mktemp)"
 trap 'rm -f "$TABLE"' EXIT
 
-{
-  echo "| Project | Pull request | Merged |"
-  echo "|---|---|---|"
-} > "$TABLE"
+: > "$TABLE"
 
 found=0
 while IFS=$'\t' read -r repo number title url merged; do
@@ -20,9 +17,8 @@ while IFS=$'\t' read -r repo number title url merged; do
   [ "$stars" -ge "$MIN_STARS" ] || continue
   owner="${repo%%/*}"
   month=$(date -u -d "$merged" '+%b %Y')
-  safe_title=$(printf '%s' "$title" | sed 's/|/\\|/g')
-  printf '| <img src="https://github.com/%s.png?size=40" width="20" align="top"> [%s](https://github.com/%s) | [#%s — %s](%s) | %s |\n' \
-    "$owner" "$repo" "$repo" "$number" "$safe_title" "$url" "$month" >> "$TABLE"
+  printf -- '- <img src="https://github.com/%s.png?size=40" width="20" align="top"> [%s](https://github.com/%s) — [%s (#%s)](%s) — %s\n' \
+    "$owner" "$repo" "$repo" "$title" "$number" "$url" "$month" >> "$TABLE"
   found=$((found + 1))
 done < <(gh api "search/issues?q=is%3Apr+is%3Amerged+author%3A${USER}+-user%3A${USER}&per_page=100" \
   --jq '.items | sort_by(.pull_request.merged_at) | reverse | .[]

@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Merged upstream
-
 <!-- upstream-prs:start -->
-| Project | Pull request | Merged |
-|---|---|---|
-| <img src="https://github.com/freeCodeCamp.png?size=40" width="20" align="top"> [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | [#68912 — fix(curriculum): correct Quincy's Job Tips errors](https://github.com/freeCodeCamp/freeCodeCamp/pull/68912) | Jul 2026 |
+- <img src="https://github.com/freeCodeCamp.png?size=40" width="20" align="top"> [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — [fix(curriculum): correct Quincy's Job Tips errors (#68912)](https://github.com/freeCodeCamp/freeCodeCamp/pull/68912) — Jul 2026
 <!-- upstream-prs:end -->
