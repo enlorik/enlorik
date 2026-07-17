@@ -1,12 +1,13 @@
 [Timus top 0.4% (658 / 169,530)](https://acm.timus.ru/author.aspx?id=301319) · EPIC Institute Backend · EPAM Cloud & DevOps Beginner
+
 **Projects:**
-- **User Management API** — Spring Boot; session auth, RBAC, email verification, password-reset tokens, IP rate limiting.
-- **pearl-proof** — C++17 + ANTLR4 equation verifier; canonical polynomial normalization, then compare.
-- **Bepo** — FastAPI + SQLite memory store; CLIP embeddings, cosine-similarity natural-language search.
-- **HDD** — React/Vite + Express Codeforces dashboard; contest timeline, rating-aware daily problems by tag.
-- **doc-flow** — Spring Boot 3 async job service; JWT, project-scoped API keys, PostgreSQL lifecycle tracking.
-- **grepink** — Flutter notes-first app; turns local knowledge and sourced evidence into reviewable markdown drafts.
-- **Ribbon** — TS/JS error triage; clusters diagnostics by root cause, ranks origin files.
+— **User Management API** — Spring Boot; session auth, RBAC, email verification, password-reset tokens, IP rate limiting.
+— **pearl-proof** — C++17 + ANTLR4 equation verifier; canonical polynomial normalization, then compare.
+— **Bepo** — FastAPI + SQLite memory store; CLIP embeddings, cosine-similarity natural-language search.
+— **HDD** — React/Vite + Express Codeforces dashboard; contest timeline, rating-aware daily problems by tag.
+— **doc-flow** — Spring Boot 3 async job service; JWT, project-scoped API keys, PostgreSQL lifecycle tracking.
+— **grepink** — Flutter notes-first app; turns local knowledge and sourced evidence into reviewable markdown drafts.
+— **Ribbon** — TS/JS error triage; clusters diagnostics by root cause, ranks origin files.
 <!--
 **enlorik/enlorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
