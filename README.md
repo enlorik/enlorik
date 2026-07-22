@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 **Contributions:**
 
 <!-- upstream-prs:start -->
+▪ <img src="https://github.com/microsoft.png?size=40" width="20" align="top"> [microsoft/edit](https://github.com/microsoft/edit) — [Use copied() instead of cloned() for u16 iterator (#884)](https://github.com/microsoft/edit/pull/884) — Jul 2026\
 ▪ <img src="https://github.com/freeCodeCamp.png?size=40" width="20" align="top"> [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — [fix(curriculum): correct Quincy's Job Tips errors (#68912)](https://github.com/freeCodeCamp/freeCodeCamp/pull/68912) — Jul 2026
 <!-- upstream-prs:end -->
